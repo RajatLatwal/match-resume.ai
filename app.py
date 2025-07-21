@@ -9,7 +9,7 @@ genai.configure(api_key=os.getenv("GOOGLE_GEMINI_API"))
 
 # Movie Recommmender System Front End
 
-st.title("🍿🎥Movie Recommender System🎥🍿")
+st.title("Movie Recommender System 🎥")
 user_input = st.text_input('Enter the Movie Name')
 submit = st.button('Cick Here')
 
