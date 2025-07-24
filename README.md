@@ -6,7 +6,7 @@ Welcome to the **Movie Recommender System** powered by **Google's Generative AI 
 
 ## 🚀 Live Demo
 
-🔗 **Try it now:** [Movie Recommender System App](https://movie-recommender-system-genai.streamlit.app/)
+🔗 **Try it now:** [Movie Recommender System App](https://movie-recommender-system-generative-ai.streamlit.app/)
 
 ---
 
