@@ -1,12 +1,29 @@
-# match-resume.ai
+# 🎬 Movie Recommender System using GenAI
 
-This repository is dedicated to resume analysis using Generative AI, enabling intelligent extraction, evaluation, and insights from resumes.
+Welcome to the **Movie Recommender System** powered by **Google's Generative AI (Gemini)** and built using **Streamlit**. This app takes a movie name as input and generates personalized movie recommendations based on it.
 
-## create the virtual environment
+---
 
-- We create the virtual environment and install all the packages mentioned in `requirements.txt`
-  by using `pip install -r requirements.txt`
+## 🚀 Live Demo
 
-## Coding the Application
+🔗 **Try it now:** [Movie Recommender System App](https://movie-recommender-system-genai.streamlit.app/)
 
-We will use modular code to build our application.
+---
+
+## 📦 Features
+
+- 🧠 Uses Google Gemini AI for intelligent recommendations
+- 📱 Simple and interactive Streamlit UI
+- ⚡ Fast, lightweight, and responsive
+- 🔍 Input a movie name and get smart suggestions
+
+---
+
+## 🛠️ Tech Stack
+
+- `Streamlit` – for building the front-end web app
+- `Google Generative AI (Gemini)` – for recommendations
+- `Python` – core programming language
+- `dotenv` – to securely manage API keys
+
+---
